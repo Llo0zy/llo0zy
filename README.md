@@ -13,5 +13,5 @@
     <img src="https://skillicons.dev/icons?i=linux,bash,md,docker,bots,discord,vscode,python,mysql" />
   </a>
 </p>
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2o0OXV5ZDFidDgyMW1mNmx1b2s4YXo1Y3NnOW9xbXNkbmF4OHdhZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SBybjkhmxcN2wa56zC/giphy.gif" width="300"/>
+<img src="https://media.discordapp.net/attachments/828593069150306327/831063315638779924/tenor.gif" width="300"/>
 <!--<img src="https://media.giphy.com/media/IcJ6n6VJNjRNS/giphy.gif" width="200"/>gato-->
