@@ -15,7 +15,7 @@
 </p><br>
 
 <div identificación="centro" align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&pause=10000&color=6a19cc&center=true&vCenter=true&width=435&lines=%3C%2FComing+soon...%3E" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><div align="center" identificación="centro"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&pause=10000&color=6a19cc&center=true&vCenter=true&width=435&lines=%3C%2FComing+soon...%3E" alt="Typing SVG" /></div></a>
 </div>
 <p align="center">
   <a href="https://skillicons.dev">
