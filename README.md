@@ -17,5 +17,11 @@
 <div identificación="centro" align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=23&duration=1&pause=1000&color=6a19cc&center=true&vCenter=true&width=435&lines=</Coming soon...>" alt="Typing SVG" /></a>
 </div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,bash,md,docker,bots,discord,vscode,python,mysql" />
+  </a>
+</p><br>
+
 <img src="https://media.discordapp.net/attachments/828593069150306327/831063315638779924/tenor.gif" width="300"/>
 <!--<img src="https://media.giphy.com/media/IcJ6n6VJNjRNS/giphy.gif" width="200"/>gato-->
