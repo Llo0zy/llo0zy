@@ -1,9 +1,6 @@
 <style>
     .inclinar {
-      transform: skew(20deg, 0deg); /* Aquí ajusta el ángulo de inclinación */
-      display: inline-block; /* Para que el texto se muestre en una línea */
-      background-color: #f0f0f0; /* Solo para mostrar el fondo del contenedor */
-      padding: 10px; /* Solo para espaciar el contenido */
+       font-family: Arial, sans-serif; /* Cambiar la fuente a Arial o la que desees */
     }
 </style>
 
@@ -16,7 +13,7 @@
 <br>
 
 <div identificación="centro" align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=23&duration=1&pause=1000&color=6a19cc&center=true&vCenter=true&width=435&lines=<Skills/>" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=23&duration=1&pause=1000&color=6a19cc&center=true&vCenter=true&width=435&lines=</Skills>" alt="Typing SVG" /></a>
 </div>
 <p align="center">
   <a href="https://skillicons.dev">
