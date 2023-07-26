@@ -1,5 +1,5 @@
 <div identificación="encabezado" align="center">
-    <h2 align="center">Welcome to yoshl's github</h2>
+    <h2 align="center" style="color: #6a19cc;">Welcome to yoshl's github</h2>
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6A19CC&width=435&lines=Cybersecurity+student+and+developer" alt="Typing SVG" /></a>
 </div >
 
