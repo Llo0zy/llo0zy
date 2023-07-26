@@ -1,13 +1,14 @@
+
 <div identificación="encabezado" align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6a19cc&width=435&lines=Welcome+to+yoshl's+github" alt="Typing SVG" /></a>
-    <h2 align="center" style="color: purple;">Cibersecurity student and developer</h2>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=FFC4C4&center=true&vCenter=true&width=435&lines=Hi+i'm+Farcy+Acosta" alt="Typing SVG" /></a>
+    <h3 align="center">Me gusta la ciberseguridad</h3>
 </div >
 
 <br>
 
 
 <div identificación="centro" align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=50&pause=25&color=6A19CC&width=435&lines=%3CSkills%2F%3E" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=23&duration=1&pause=1000&color=FFC4C4&center=true&vCenter=true&width=435&lines=%3CSkills%3E" alt="Typing SVG" /></a>
 </div>
 <p align="center">
   <a href="https://skillicons.dev">
