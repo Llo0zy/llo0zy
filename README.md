@@ -23,5 +23,5 @@
   </a>
 </p><br>
 
-<img src="https://i.pinimg.com/originals/55/ff/c8/55ffc86e756ea6503793a827669af5d5.jpg" width="300"/>
+<img src="https://i.pinimg.com/originals/55/ff/c8/55ffc86e756ea6503793a827669af5d5.jpg" alt="Gato" width="300"/>
 <!--<img src="https://media.giphy.com/media/IcJ6n6VJNjRNS/giphy.gif" width="200"/>gato-->
