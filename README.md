@@ -7,7 +7,7 @@
 
 
 <div identificación="centro" align="center">
-    a
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=50&pause=25&color=6A19CC&width=435&lines=%3CSkills%2F%3E" alt="Typing SVG" /></a>
 </div>
 <p align="center">
   <a href="https://skillicons.dev">
