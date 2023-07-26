@@ -23,5 +23,5 @@
   </a>
 </p><br>
 
-<!-- <img src="https://media.discordapp.net/attachments/828593069150306327/831063315638779924/tenor.gif" width="300"/> -->
+<img src="https://i.pinimg.com/originals/55/ff/c8/55ffc86e756ea6503793a827669af5d5.jpg" width="300"/>
 <!--<img src="https://media.giphy.com/media/IcJ6n6VJNjRNS/giphy.gif" width="200"/>gato-->
