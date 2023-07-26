@@ -1,6 +1,6 @@
 <div identificación="encabezado" align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6A19CC&width=435&lines=Welcome+to+yoshl's+github.;Cybersecurity+student+and+developer" alt="Typing SVG" /></a>
-    <h3 align="center">Me gusta la ciberseguridad</h3>
+    <h1 align="center">Welcome to yoshl's github</h1>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6A19CC&width=435&lines=Cybersecurity+student+and+developer" alt="Typing SVG" /></a>
 </div >
 
 <br>
