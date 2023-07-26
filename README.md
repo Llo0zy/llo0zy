@@ -1,13 +1,13 @@
 <div identificación="encabezado" align="center">
-    <h2 align="center" style="color: purple;">Welcome to yoshl's github</h2>
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6A19CC&width=435&lines=Cybersecurity+student+and+developer" alt="Typing SVG" /></a>
+    <h2 align="center" style="color: purple;">Welcome to yoshl's github</h2>
 </div >
 
 <br>
 
 
 <div identificación="centro" align="center">
-<a href="https://git.io/typing-svg" align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=50&pause=25&color=6A19CC&width=435&lines=%3CSkills%2F%3E" alt="Typing SVG" /></a>
+    a
 </div>
 <p align="center">
   <a href="https://skillicons.dev">
