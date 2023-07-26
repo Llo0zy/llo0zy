@@ -10,7 +10,7 @@
 </div>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,bash,python,discord,bots,docker,vscode,mysql,md" />
+    <img src="https://skillicons.dev/icons?i=linux,bash,python,docker,bots,discord,vscode,mysql,md" />
   </a>
 </p>
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2o0OXV5ZDFidDgyMW1mNmx1b2s4YXo1Y3NnOW9xbXNkbmF4OHdhZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SBybjkhmxcN2wa56zC/giphy.gif" width="300"/>
