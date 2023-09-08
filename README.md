@@ -19,7 +19,7 @@
 </div>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=powershell,js,php,wordpress,c,go,gentoo" />
+    <img src="https://skillicons.dev/icons?i=powershell,js,php,wordpress,c,go" />
   </a>
 </p><br>
 
