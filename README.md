@@ -6,9 +6,7 @@
 <br>
 
 <!--
-<div identificación="centro" align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&pause=1000000&color=800080&center=true&vCenter=true&width=435&lines=%3C/Skills%3E" alt="Typing SVG" /></a>
-</div>
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linux,bash,mysql,md,docker,bots,discord,vscode,python,github,git" />
@@ -25,10 +23,11 @@
 </p><br>
 -->
 
+<div identificación="centro" align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&pause=1000000&color=800080&center=true&vCenter=true&width=435&lines=%3C/Skills%3E" alt="Typing SVG" /></a>
+</div>
+
 <table><tr><td valign="top" width="33%">
-
-
-
 ### Pro
 <div align="center">
     <img src="https://skillicons.dev/icons?i=linux,bash,python,github,git"/>
@@ -39,7 +38,7 @@
 
 
 
-<h3 style="color:#01311f"> Medium </h3>
+### Noob
 <div align="center">
     <img src="https://skillicons.dev/icons?i=c,go,php,powershell"/>
     <img src="https://skillicons.dev/icons?i=docker,postgres,mongodb" />
