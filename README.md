@@ -29,27 +29,27 @@
 
 
 
-### Frontend
+### Masterizate
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=powershell,js,php,wordpress,c,go" />
+    <img src="https://skillicons.dev/icons?i=python,bash,linux,md,html,css,bots,discord,git,github,mysql,mongodb,postgres" />
 </div>
 
 </td><td valign="top" width="33%">
 
 
 
-### Backend
+### Knownledge / Masterizating
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=powershell,js,php,wordpress,c,go" />
+    <img src="https://skillicons.dev/icons?i=lua,docker,kotlin,powershell,js,php,c,go,aws" />
 </div>
 
 </td><td valign="top" width="33%">
 
 
 
-### DevOps
+### Soon / Learning
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=powershell,js,php,wordpress,c,go" />
+    <img src="https://skillicons.dev/icons?i=raspberrypi,java" />
 </div>
 
 </td></tr></table>
