@@ -41,7 +41,7 @@
 
 ### Knownledge / Masterizating
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=lua,powershell,php,c,go"/>
+    <img src="https://skillicons.dev/icons?i=powershell,php,c,go"/>
     <img src="https://skillicons.dev/icons?i=docker,mongodb,postgres" />
 </div>
 
@@ -51,7 +51,8 @@
 
 ### Soon / Learning
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=raspberrypi,java,aws,kotlin,js" />
+    <img src="https://skillicons.dev/icons?i=java,js,lua"/>
+    <img src="https://skillicons.dev/icons?i=raspberrypi,aws,kotlin"/>
 </div>
 
 </td></tr></table>
