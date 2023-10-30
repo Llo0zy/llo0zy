@@ -52,7 +52,7 @@
 ### Noob
 <div align="center">
     <img src="https://skillicons.dev/icons?i=java,js,lua"/>
-    <img src="https://skillicons.dev/icons?i=raspberrypi,aws,kotlin"/>
+    <img src="https://skillicons.dev/icons?i=kotlin,raspberrypi,aws"/>
 </div>
 
 </td></tr></table>
