@@ -31,8 +31,8 @@
 
 ### Pro
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=linux,bash,python,git,github"/>
-    <img src="https://skillicons.dev/icons?i=bots,html,css,mysql"/>
+    <img src="https://skillicons.dev/icons?i=linux,bash,python,github,bots"/>
+    <img src="https://skillicons.dev/icons?i=git,html,css,mysql"/>
 </div>
 
 </td><td valign="top" width="33%">
