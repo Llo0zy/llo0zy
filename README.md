@@ -41,8 +41,8 @@
 
 ### Medium
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=powershell,php,c,go"/>
-    <img src="https://skillicons.dev/icons?i=docker,mongodb,postgres" />
+    <img src="https://skillicons.dev/icons?i=c,go,php,powershell"/>
+    <img src="https://skillicons.dev/icons?i=docker,postgres,mongodb" />
 </div>
 
 </td><td valign="top" width="33%">
