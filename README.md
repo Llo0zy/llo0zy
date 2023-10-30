@@ -29,7 +29,7 @@
 
 <table><tr><td valign="top" width="33%">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fire+Code&size=30&pause=7000&color=00C647&center=true&vCenter=true&random=false&width=435&lines=Pro" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fire+Code&size=30&pause=10000&color=00C647&center=true&vCenter=true&random=false&width=435&lines=Pro" alt="Typing SVG" /></a>
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=linux,bash,python,github,git"/>
@@ -40,7 +40,7 @@
 
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fire+Code&size=30&pause=7000&color=00C647&center=true&vCenter=true&random=false&width=435&lines=Medium" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fire+Code&size=30&pause=10000&color=00C647&center=true&vCenter=true&random=false&width=435&lines=Medium" alt="Typing SVG" /></a>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=c,go,php,powershell"/>
     <img src="https://skillicons.dev/icons?i=docker,postgres,mongodb" />
@@ -50,7 +50,7 @@
 
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fire+Code&size=30&pause=7000&color=00C647&center=true&vCenter=true&random=false&width=435&lines=Noob" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fire+Code&size=30&pause=10000&color=00C647&center=true&vCenter=true&random=false&width=435&lines=Noob" alt="Typing SVG" /></a>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=java,js,aws"/>
     <img src="https://skillicons.dev/icons?i=kotlin,lua,raspberrypi"/>
