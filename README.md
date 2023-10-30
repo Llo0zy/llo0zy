@@ -51,8 +51,8 @@
 
 ### Noob
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=java,js,lua"/>
-    <img src="https://skillicons.dev/icons?i=kotlin,raspberrypi,aws"/>
+    <img src="https://skillicons.dev/icons?i=java,js,oracle"/>
+    <img src="https://skillicons.dev/icons?i=kotlin,lua,raspberrypi"/>
 </div>
 
 </td></tr></table>
