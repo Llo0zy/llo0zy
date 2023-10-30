@@ -31,7 +31,8 @@
 
 ### Masterizate
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,bash,linux,md,html,css,bots,discord,git,github,mysql" />
+    <img src="https://skillicons.dev/icons?i=python,bash,linux,md,html,css"/>
+    <img src="https://skillicons.dev/icons?i=bots,discord,git,github,mysql"/>
 </div>
 
 </td><td valign="top" width="33%">
@@ -40,7 +41,8 @@
 
 ### Knownledge / Masterizating
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=lua,docker,powershell,php,c,go,mongodb,postgres" />
+    <img src="https://skillicons.dev/icons?i=lua,powershell,php,c,go"/>
+    <img src="https://skillicons.dev/icons?i=docker,mongodb,postgres" />
 </div>
 
 </td><td valign="top" width="33%">
