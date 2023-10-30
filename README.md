@@ -51,7 +51,7 @@
 
 ### Noob
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=java,js,oracle"/>
+    <img src="https://skillicons.dev/icons?i=java,js,aws"/>
     <img src="https://skillicons.dev/icons?i=kotlin,lua,raspberrypi"/>
 </div>
 
