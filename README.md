@@ -29,27 +29,27 @@
 
 
 
-### Masterizate
+### Pro
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,bash,linux,md,html,css,bots,discord,git,github,mysql,mongodb,postgres" />
+    <img src="https://skillicons.dev/icons?i=python,bash,linux,md,html,css,bots,discord,git,github,mysql" />
 </div>
 
 </td><td valign="top" width="33%">
 
 
 
-### Knownledge / Masterizating
+### Medium
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=lua,docker,kotlin,powershell,js,php,c,go,aws" />
+    <img src="https://skillicons.dev/icons?i=lua,docker,powershell,js,php,c,go,mongodb,postgres" />
 </div>
 
 </td><td valign="top" width="33%">
 
 
 
-### Soon / Learning
+### Noob
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=raspberrypi,java" />
+    <img src="https://skillicons.dev/icons?i=raspberrypi,java,kotlin,aws" />
 </div>
 
 </td></tr></table>
