@@ -29,7 +29,7 @@
 
 <table><tr><td valign="top" width="33%">
 
-### Pro
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fire+Code&size=30&duration=1000&pause=5000&color=00C647&center=true&vCenter=true&random=false&width=435&lines=Pro" alt="Typing SVG" /></a>
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=linux,bash,python,github,git"/>
