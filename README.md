@@ -28,7 +28,9 @@
 </div>
 
 <table><tr><td valign="top" width="33%">
+
 ### Pro
+
 <div align="center">
     <img src="https://skillicons.dev/icons?i=linux,bash,python,github,git"/>
     <img src="https://skillicons.dev/icons?i=bots,html,css,mysql"/>
@@ -38,7 +40,7 @@
 
 
 
-### Noob
+### Medium
 <div align="center">
     <img src="https://skillicons.dev/icons?i=c,go,php,powershell"/>
     <img src="https://skillicons.dev/icons?i=docker,postgres,mongodb" />
