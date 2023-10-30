@@ -39,7 +39,7 @@
 
 
 
-### Medium
+<h3 style="color:#01311f"> Medium </h3>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=c,go,php,powershell"/>
     <img src="https://skillicons.dev/icons?i=docker,postgres,mongodb" />
