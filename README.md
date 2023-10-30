@@ -1,7 +1,7 @@
 <div identificación="encabezado" align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&pause=5000&color=800080&center=true&vCenter=true&width=435&lines=Welcome+to+yoshl's+github" alt="Typing SVG" /></a>
     <div identificación="centro" align="center">
-        <a href="https://git.io/typing-svg"><div align="center" identificación="centro"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&pause=1000000&color=adabab&center=true&vCenter=true&width=435&lines=%3C/About+me%3E" alt="Typing SVG" /></div></a>
+        <a href="https://git.io/typing-svg"><div align="center" identificación="centro"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&pause=1000000&color=800080&center=true&vCenter=true&width=435&lines=%3C/About+me%3E" alt="Typing SVG" /></div></a>
     </div>
 </div >
 
