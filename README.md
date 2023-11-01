@@ -11,7 +11,10 @@
             <img src="https://img.shields.io/badge/Discord-grey?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
         </a>
         <a>
-            <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Discord Badge"/>
+            <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+        </a>
+        <a>
+            <img src="https://img.shields.io/badge/Gmail?style=for-the-badge&logo=gmail&logoColor=none" alt="Gmail Badge"/>
         </a>
         <br><img src="https://komarev.com/ghpvc/?username=llo0zy&style=flat-square&color=blue" alt=""/>
     </div>
