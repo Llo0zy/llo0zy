@@ -1,5 +1,5 @@
 <div identificación="encabezado" align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&pause=10000&color=00C647&center=true&vCenter=true&width=435&lines=Welcome+to+yoshl's+github" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&pause=10000&color=800080&center=true&vCenter=true&width=435&lines=Welcome+to+yoshl's+github" alt="Typing SVG" /></a>
     <div identificación="centro" align="center">
         </div>
     <div id="badges">
