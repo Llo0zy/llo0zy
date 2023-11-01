@@ -12,8 +12,8 @@
         <a>
             <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
         </a>
-        <a>
-            <img src="https://img.shields.io/badge/Gmail-grey?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail Badge"/>
+        <a href="https://www.google.com/search?q=jaimitogomezmartinez%40gmail.com&sca_esv=578502807&sxsrf=AM9HkKlg_aIaGc2ijoCL9w_GnTw7PYa8gQ%3A1698849565917&ei=HWNCZd2SN4KqkdUPjc2ccA&ved=0ahUKEwidlZzng6OCAxUCVaQEHY0mBw4Q4dUDCBA&uact=5&oq=jaimitogomezmartinez%40gmail.com&gs_lp=Egxnd3Mtd2l6LXNlcnAiHmphaW1pdG9nb21lem1hcnRpbmV6QGdtYWlsLmNvbTIEECMYJ0jXElCmAljED3ABeACQAQCYAacBoAHxBqoBAzUuNLgBA8gBAPgBAeIDBBgBIEGIBgE&sclient=gws-wiz-serp">
+            <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
         </a>
         <br><img src="https://komarev.com/ghpvc/?username=llo0zy&style=flat-square&color=blue" alt=""/>
     </div>
