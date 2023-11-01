@@ -5,7 +5,7 @@
     <div id="badges">
       <a href="https://www.linkedin.com/in/jaime-gomek-martinez/">
           <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-          <img alt="Static Badge" src="https://img.shields.io/badge/discord?logo=discord">    
+          <img asrc="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=discord&logoColor=white" lt="Static Badge" >    
       </a>
         <br><img src="https://komarev.com/ghpvc/?username=llo0zy&style=flat-square&color=blue" alt=""/>
     </div>
