@@ -1,7 +1,6 @@
 <div identificación="encabezado" align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&pause=10000&color=00C647&center=true&vCenter=true&width=435&lines=Welcome+to+yoshl's+github" alt="Typing SVG" /></a>
     <div identificación="centro" align="center">
-        <img src="https://giphy.com/embed/ptx81V2gHjriw"/>
         </div>
     <div id="badges">
       <a href="https://www.linkedin.com/in/jaime-gomek-martinez/">
@@ -14,7 +13,7 @@
             <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
         </a>
         <a>
-            <img src="https://img.shields.io/badge/Gmail?style=for-the-badge&logo=gmail&logoColor=none" alt="Gmail Badge"/>
+            <img src="https://img.shields.io/badge/Gmail?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail Badge"/>
         </a>
         <br><img src="https://komarev.com/ghpvc/?username=llo0zy&style=flat-square&color=blue" alt=""/>
     </div>
