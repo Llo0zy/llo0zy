@@ -4,7 +4,8 @@
         <a href="https://git.io/typing-svg"><div align="center" identificación="centro"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&pause=1000000&color=800080&center=true&vCenter=true&width=435&lines=%3C/About+me%3E" alt="Typing SVG" /></div></a>
     <div id="badges">
       <a href="https://www.linkedin.com/in/jaime-gomek-martinez/">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+          <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+          <img alt="Static Badge" src="https://img.shields.io/badge/discord?logo=discord">    
       </a>
         <br><img src="https://komarev.com/ghpvc/?username=llo0zy&style=flat-square&color=blue" alt=""/>
     </div>
