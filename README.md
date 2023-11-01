@@ -2,9 +2,10 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&pause=10000&color=00C647&center=true&vCenter=true&width=435&lines=Welcome+to+yoshl's+github" alt="Typing SVG" /></a>
     <div identificación="centro" align="center">
         <a href="https://git.io/typing-svg"><div align="center" identificación="centro"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&pause=1000000&color=800080&center=true&vCenter=true&width=435&lines=%3C/About+me%3E" alt="Typing SVG" /></div></a>
-    <p>
-        Hi, I'm Jaime, a student of 16 years old in the field of computer science, with a strong focus on cybersecurity and computer forensics. My experience is not very extensive, ranging from web page creation to configuring both Linux and Windows operating systems. I also have experience in developing automation scripts in Python and Bash and regularly practice programming languages such as C, Go, MySQL, PowerShell, Javascript, among others.
-    </p>
+    <div id="badges">
+      <a href="your-linkedin-URL">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+      </a>
     </div>
 </div >
 
