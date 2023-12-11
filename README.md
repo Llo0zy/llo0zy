@@ -57,14 +57,15 @@
 
 </td></tr></table>
 -->
-```erDiagram
+```mermald
+erDiagram
     CUSTOMER ||--o{ ORDER : places
     ORDER ||--|{ LINE-ITEM : contains
     CUSTOMER }|..|{ DELIVERY-ADDRESS : uses
 ```
 
 <p align="center">
-![FrancoFranco](https://github-readme-stats.vercel.app/api?username=llo0zy&show_icons=true&theme=tokyonight)
+    <img src="https://github-readme-stats.vercel.app/api?username=llo0zy&show_icons=true&theme=tokyonight">
 </p>
 
 <!--
