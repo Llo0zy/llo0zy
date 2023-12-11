@@ -57,13 +57,14 @@
 
 </td></tr></table>
 -->
-```mermald
-erDiagram
-    CUSTOMER ||--o{ ORDER : places
-    ORDER ||--|{ LINE-ITEM : contains
-    CUSTOMER }|..|{ DELIVERY-ADDRESS : uses
 ```
+flowchart LR
 
+A[Hard] -->|Text| B(Round)
+B --> C{Decision}
+C -->|One| D[Result 1]
+C -->|Two| E[Result 2]
+```
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=llo0zy&show_icons=true&theme=tokyonight">
 </p>
