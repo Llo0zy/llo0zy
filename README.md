@@ -57,8 +57,8 @@
 
 </td></tr></table>
 -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=llo0zy&show_icons=true&theme=transparent)
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lavclash75&layout=compact&theme=tokyonight&hide_border=true" /></a> <br><br>
+![FrancoFranco](https://github-readme-stats.vercel.app/api?username=llo0zy&show_icons=true&theme=transparent)
+![FrancoFranco](https://github-readme-stats.vercel.app/api/top-langs/?username=llo0zy&layout=compact&theme=tokyonight&hide_border=true)
 
 <p align="center">
     <img align="center" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
