@@ -57,18 +57,23 @@
 
 </td></tr></table>
 -->
-![FrancoFranco](https://github-readme-stats.vercel.app/api?username=llo0zy&show_icons=true&theme=tokyonight)
 
 ```mermaid
 graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
+    Have a problem-->Can I solve it?;
+    Can I solve it?-->Yes;
+    Can I solve it?-->No;
+    Yes-->Go to program;
+    No-->Ignore it;
 ```
 
+<p align="center">
+![FrancoFranco](https://github-readme-stats.vercel.app/api?username=llo0zy&show_icons=true&theme=tokyonight)
+</p>
+
+<!--
 <p align="center">
     <img align="center" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
-<!--<img src="https://media.giphy.com/media/IcJ6n6VJNjRNS/giphy.gif" width="200"/>gato-->
+<img src="https://media.giphy.com/media/IcJ6n6VJNjRNS/giphy.gif" width="200"/>gato-->
