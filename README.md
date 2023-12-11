@@ -57,7 +57,7 @@
 
 </td></tr></table>
 -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=llo0zy&show_icons=true&theme=transparent)
 
 
 <p align="center">
