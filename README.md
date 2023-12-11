@@ -59,6 +59,17 @@
 -->
 ![FrancoFranco](https://github-readme-stats.vercel.app/api?username=llo0zy&show_icons=true&theme=tokyonight)
 
+```flow
+st=>start: Problem
+op=>operation: Option to solve it
+cond=>condition: Successful: Yes or No?
+e=>end: Happy life
+
+st->op->cond
+cond(Next Problem)->e
+cond(Try again)->op
+```
+
 <p align="center">
     <img align="center" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
