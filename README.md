@@ -59,15 +59,27 @@
 -->
 ![FrancoFranco](https://github-readme-stats.vercel.app/api?username=llo0zy&show_icons=true&theme=tokyonight)
 
+                
+###FlowChart
+
 ```flow
-st=>start: Problem
-op=>operation: Option to solve it
-cond=>condition: Successful: Yes or No?
-e=>end: Happy life
+st=>start: Login
+op=>operation: Login operation
+cond=>condition: Successful Yes or No?
+e=>end: To admin
 
 st->op->cond
-cond(Next Problem)->e
-cond(Try again)->op
+cond(yes)->e
+cond(no)->op
+```
+
+###Sequence Diagram
+                    
+```seq
+Andrew->China: Says Hello 
+Note right of China: China thinks\nabout it 
+China-->Andrew: How are you? 
+Andrew->>China: I am good thanks!
 ```
 
 <p align="center">
