@@ -57,14 +57,10 @@
 
 </td></tr></table>
 -->
-
-```mermaid
-graph TD;
-    Have a problem-->Can I solve it?;
-    Can I solve it?-->Yes;
-    Can I solve it?-->No;
-    Yes-->Go to program;
-    No-->Ignore it;
+```erDiagram
+    CUSTOMER ||--o{ ORDER : places
+    ORDER ||--|{ LINE-ITEM : contains
+    CUSTOMER }|..|{ DELIVERY-ADDRESS : uses
 ```
 
 <p align="center">
