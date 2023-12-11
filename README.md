@@ -59,12 +59,8 @@
 -->
 ![FrancoFranco](https://github-readme-stats.vercel.app/api?username=llo0zy&show_icons=true&theme=tokyonight)
 
-<p>🛡️ Cybersecurity<br>🔴 Red Team<br>👨‍💻 Ethical Hacker<br>🔎 Security Analyst</p>
-
 <p align="center">
     <img align="center" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
-
-![FrancoFranco](https://github-readme-stats.vercel.app/api?username=llo0zy&show_icons=true&theme=tokyonight)<p>🛡️ Cybersecurity<br>🔴 Red Team<br>👨‍💻 Ethical Hacker<br>🔎 Security Analyst</p><p align="center"><img align="center" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" /></p>
 
 <!--<img src="https://media.giphy.com/media/IcJ6n6VJNjRNS/giphy.gif" width="200"/>gato-->
