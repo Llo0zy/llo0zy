@@ -59,11 +59,17 @@
 -->
 ```mermaid
 flowchart LR
+    A{Do you have\na problemin life?} --> B{Yes}
+    A{Do you have\na problemin life?} --> C{No}
 
-A[Hard] -->|Text| B(Round)
-B --> C{Decision}
-C -->|One| D[Result 1]
-C -->|Two| E[Result 2]
+    B --> D{Can you do\nsomething\nabout it?} 
+    D --> E{Yes}
+    D --> F{No}
+
+    E --> Z{Then no worry}
+    F --> Z{Then no worry}
+
+    C --> Z{Then no worry}
 ```
 
 <p align="center">
