@@ -59,28 +59,13 @@
 -->
 ![FrancoFranco](https://github-readme-stats.vercel.app/api?username=llo0zy&show_icons=true&theme=tokyonight)
 
-                
-###FlowChart
+$$E=mc^2$$
 
-```flow
-st=>start: Login
-op=>operation: Login operation
-cond=>condition: Successful Yes or No?
-e=>end: To admin
+Inline $$E=mc^2$$ Inline，Inline $$E=mc^2$$ Inline。
 
-st->op->cond
-cond(yes)->e
-cond(no)->op
-```
-
-###Sequence Diagram
+$$\(\sqrt{3x-1}+(1+x)^2\)$$
                     
-```seq
-Andrew->China: Says Hello 
-Note right of China: China thinks\nabout it 
-China-->Andrew: How are you? 
-Andrew->>China: I am good thanks!
-```
+$$\sin(\alpha)^{\theta}=\sum_{i=0}^{n}(x^i + \cos(f))$$
 
 <p align="center">
     <img align="center" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
