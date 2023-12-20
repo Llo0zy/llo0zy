@@ -59,6 +59,7 @@
 -->
 [![Discord Presence](https://lanyard.cnrad.dev/api/900829643379208273)](https://discord.com/users/900829643379208273)
 
+<!--
 ```mermaid
 flowchart LR
     A{Do you have\na problemin life?} --> B{Yes}
@@ -73,8 +74,6 @@ flowchart LR
 
     C --> Z{Then no worry}
 ```
-
-<!--
 <p align="center">
     <img align="center" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
