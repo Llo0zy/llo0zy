@@ -1,3 +1,4 @@
+![Llo0zy](https://github-readme-stats.vercel.app/api?username=llo0zy&show_icons=true&bg_color=00000000)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Tiny5&size=30&pause=1000&color=56F7DB&repeat=false&random=false&width=435&lines=Outstanding+skills)](https://git.io/typing-svg)
 ---
